@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Jihun Kim
 
 📚 <b>SKILLS</b>
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
