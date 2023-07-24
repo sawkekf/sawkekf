@@ -28,6 +28,5 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-EA4C89?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-f05138?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
  </div>
